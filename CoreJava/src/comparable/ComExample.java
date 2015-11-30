@@ -4,6 +4,7 @@ private int rno;
 private String name;
 private String surname;
 ComExample(int rno,String name,String surname){
+	System.out.println("code is changes with GitHub");
 	this.rno=rno;
 	this.name=name;
 	this.surname=surname;
